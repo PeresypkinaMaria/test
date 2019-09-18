@@ -1,9 +1,4 @@
-
-# Tekuchev Oleg
-## Best Readme
-
+Ignatieva Yulia
+meow
 Peresypkina Maria
 Shishkina Olga
-- NO YULIA
-
-
